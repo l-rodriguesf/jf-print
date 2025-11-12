@@ -53,6 +53,9 @@ JF-print/
 │ ├── formatacao.jpeg - Imagem ilustrativa de formatação  
 │ ├── toner-samsung.png - Imagem do Toner para venda  
 │
+├── docs/
+│ ├── JF PRINT SOLUTIONS - Rubrica Atualizado.docx - documento Rubrica  
+│
 └── README.md → Documentação do projeto
 
 ---
