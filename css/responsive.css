@@ -1,0 +1,60 @@
+/* ==============================
+RESPONSIVIDADE
+============================== */
+
+/* Mobile first - estilos base para mobile */
+.container {
+  width: 100%;
+  padding: 1rem;
+}
+
+/* Tablet (min-width: 768px) */
+@media (min-width: 768px) {
+
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+  }
+  
+
+  .product-list {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .rental .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+  }
+
+  .formatacao-item {
+    flex-direction: row;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .formatacao-item img {
+    margin-bottom: 0;
+  }
+
+  .contato-flex {
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+  }
+}
+
+/* Desktop (min-width: 1024px) */
+@media (min-width: 1024px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+/* Desktop grande (min-width: 1280px) */
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1200px;
+  }
+}
