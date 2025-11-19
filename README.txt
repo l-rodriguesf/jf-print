@@ -46,15 +46,28 @@ JF-print/
 │  
 │
 ├── img/  
-│ ├── logo.png → Logotipo da empresa  
-│ ├── aluguel.png - Imagem para informação de Aluguel de Impressoras  
-│ ├── cartucho-1.png - Imagem do Cartucho para venda  
+│ ├── logo.webp → Logotipo da empresa  
+│ ├── aluguel.webp - Imagem para informação de Aluguel de Impressoras  
+│ ├── cartucho-1.webp - Imagem do Cartucho para venda  
 │ ├── cartucho-2.webp - Imagem do Cartucho 2 para venda  
-│ ├── formatacao.jpeg - Imagem ilustrativa de formatação  
-│ ├── toner-samsung.png - Imagem do Toner para venda  
+│ ├── formatacao.webp - Imagem ilustrativa de formatação  
+│ ├── toner-samsung.webp - Imagem do Toner para venda
+│ ├── favicon.png - Imagem da logo para miniatura
 │
 ├── docs/
-│ ├── JF PRINT SOLUTIONS - Rubrica Atualizado.docx - documento Rubrica  
+│   ├── testes-navegadores/  
+│   │   ├── teste-chrome.jpeg → Teste no Navegador Chrome  
+│   │   └── teste-edge → Teste no Navegador Edge  
+│   └── testes-responsividade/  
+│       ├── Desktop-Full-HD.jpeg → Responsividade em Desktop Full HD  
+│       ├── Desktop-HD.jpeg → Responsividade em Desktop HD
+│       ├── Ipad.jpeg → Responsividade em Ipad
+│       ├── Ipad-Pro.jpeg → Responsividade em Ipad Pro
+│       ├── Iphone-12-Pro.jpeg → Responsividade em Iphone 12 Pro
+│       └── Iphone-SE.jpeg → Responsividade em Iphone SE
+│
+│├── JF PRINT SOLUTIONS - Rubrica Atualizado.docx - documento Rubrica
+│
 │
 └── README.md → Documentação do projeto
 
@@ -81,6 +94,8 @@ JF-print/
 | 02/11/2025 | Criação e integração do arquivo responsive.css para centralizar regras de responsividade | Leonardo e Pedro Lacerda|
 | 15/10/2025 | Revisão final da modularização e otimização dos estilos globais | Leonardo |
 | 15/10/2025 | Publicação no GitHub Pages e atualização da documentação para a parte 2 | Leonardo |
+| 13/11/2025 | Implementação do Formspree para envio de mensagens pelo formulário | Leonardo |
+| 18/11/2025 | Otimização do SEO e de performance, adicionando meta tags e compressão das imagens | Leonardo |
 
 
 ---
@@ -144,11 +159,32 @@ As decisões técnicas buscaram equilibrar **simplicidade, eficiência e boa man
 
 ---
 
+## Testes Realizados
+
+**Navegadores testados:**
+- Google Chrome  
+- Brave (Chromium-based)  
+- Microsoft Edge  
+- Safari Mobile  
+
+**Dispositivos e resoluções testadas:**
+- iPhone 16 Pro Max  
+- iPhone 12  
+- iPhone 14 Pro Max  
+- Samsung S24+  
+- Desktop Full HD (1920x1080)
+
+**Problemas encontrados e soluções adotadas:**
+- Não foram identificados problemas de exibição ou funcionamento nos dispositivos e navegadores testados.
+
+**Limitações conhecidas:**
+- Até o momento, nenhuma limitação relevante foi identificada.
+
+
 ## 🧭 Próximos Passos
-- Implementar o **Formspree** para envio de mensagens pelo formulário.  
+
 - Adicionar **botão de WhatsApp flutuante** para contato rápido.  
 - Inserir **JavaScript** em seções específicas para dinamismo e interatividade.  
-- Otimizar **SEO e performance** (meta tags, compressão de imagens e melhorias no carregamento).  
 
 ---
 
