@@ -1,3 +1,5 @@
+4.1. Testes em Diferentes Navegadores
+
 - [V]  O layout está correto?
 - [V]  Todas as páginas carregam?
 - [V]  Imagens aparecem?
@@ -5,3 +7,17 @@
 - [Não se aplica]  JavaScript funciona (se houver)?
 - [V]  Formulários estão funcionais?
 - [V]  Menu e navegação funcionam?
+
+4.2. Testes de Responsividade
+- [V]  Layout se adapta corretamente?
+- [V]  Textos estão legíveis?
+- [V]  Imagens redimensionam bem?
+- [V]  Menu funciona (hamburguer no mobile)?
+- [V]  Espaçamentos são adequados?
+- [V]  Nada quebra ou fica cortado?
+
+4.3. Teste em Dispositivos Reais
+- Touch funciona bem em botões e links? Completamente
+- Carregamento é rápido? Sim
+- Experiência é boa em conexão 4G/5G? Testado apenas em 4G e 5G, carregou de forma rápida e fluida.
+
