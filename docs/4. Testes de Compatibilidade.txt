@@ -1,0 +1,7 @@
+- [V]  O layout está correto?
+- [V]  Todas as páginas carregam?
+- [V]  Imagens aparecem?
+- [V]  CSS está aplicado corretamente?
+- [Não se aplica]  JavaScript funciona (se houver)?
+- [V]  Formulários estão funcionais?
+- [V]  Menu e navegação funcionam?
