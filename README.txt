@@ -181,7 +181,7 @@ As decisões técnicas buscaram equilibrar **simplicidade, eficiência e boa man
 - Até o momento, nenhuma limitação relevante foi identificada.
 
 
-## 🧩 Reflexão Individual - Leonardo ##
+      ## 🧩 Reflexão Individual - Leonardo ##
 **-Aprendizados Técnicos:
 Durante o projeto, desenvolvi melhor minhas habilidades em HTML e CSS, especialmente na organização do código e na estruturação semântica das páginas. O conceito mais desafiador foi compreender boas práticas de responsividade e modularização, mas ao longo do desenvolvimento consegui evoluir bastante nisso. Hoje tenho um domínio muito maior sobre estrutura de pastas, versionamento com Git e organização geral do front-end em comparação ao início do trabalho.
 
@@ -191,7 +191,23 @@ Trabalhar em dupla foi uma experiência positiva, mas desafiadora. Tivemos que a
 **-Desafios Enfrentados:
 O maior desafio do projeto foi lidar com partes do código que exigiam mais atenção técnica, além de sincronizar a evolução do trabalho entre os integrantes. Superamos isso através de comunicação constante e revisão conjunta. Se eu pudesse voltar no tempo, teria investido mais tempo inicial no planejamento e na definição da estrutura do projeto, o que teria evitado alguns ajustes posteriores.
 
---## ⚙️ Reflexão da dupla
+      ## 🧩 Reflexão Individual — Pedro Henrique L. Frota ##
+**-Aprendizados Técnicos
+Desenvolvi e fortaleci habilidades em HTML semântico, CSS para estilização e responsividade, organização de código e modularização de componentes. Também aprimorei minha capacidade de criar layouts consistentes, navegáveis e com boa usabilidade, além do uso correto de formulários e links externos (WhatsApp e Instagram).
+O conceito mais desafiador foi a responsividade completa, garantindo que grids, flexboxes e espaçamentos funcionassem bem em diferentes tamanhos de tela sem comprometer a estética ou a experiência do usuário.
+Comparado ao início do projeto, hoje tenho maior domínio na criação de estruturas limpas, componentes reutilizáveis, layouts responsivos e um design visual mais coerente, facilitando a manutenção e melhorando a experiência do usuário.
+
+**-Aprendizados de Processo
+Trabalhar em dupla permitiu dividir tarefas e combinar ideias, mas exigiu coordenação constante para evitar conflitos de código e inconsistências de design.
+As tarefas foram organizadas com responsabilidades claras — como HTML, CSS ou testes de responsividade — e a comunicação foi mantida por mensagens e revisões frequentes, garantindo alinhamento entre os integrantes.
+O que mais funcionou na metodologia da dupla foi a colaboração ativa, a troca contínua de feedback e a revisão mútua do código, o que elevou a qualidade final do projeto e reduziu erros.
+
+**-Desafios Enfrentados
+O maior desafio foi manter todas as páginas visualmente coerentes, especialmente ao trabalhar com componentes reutilizáveis e diferentes seções que precisavam seguir o mesmo padrão estrutural e estético.
+Superamos isso ao padronizar o uso de classes, manter um arquivo de estilos centralizado e revisar cada página comparando elementos como cabeçalho, espaçamentos, tipografia e componentes, garantindo uniformidade.
+Se pudesse voltar no tempo, investiria em um planejamento inicial mais detalhado, incluindo um guia de estilos e um mapa de componentes, o que tornaria a construção das páginas mais rápida e evitaria retrabalhos na fase final. Isso também facilitaria uma divisão de tarefas ainda mais eficiente.
+
+            --## ⚙️ Reflexão da dupla
 **-Evolução do Projeto
 O projeto evoluiu significativamente desde a Parte 1. Começamos com uma estrutura mais simples e, ao longo das etapas, aprimoramos a organização do código, a semântica do HTML, o design, além de implementar melhorias em acessibilidade e responsividade. As maiores mudanças foram justamente a reestruturação do layout, a padronização dos componentes e a melhoria da navegação. No geral, o resultado final atende bem à proposta inicial, entregando um site funcional, organizado e alinhado às necessidades do pequeno negócio escolhido.
 
