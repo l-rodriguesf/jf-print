@@ -181,6 +181,27 @@ As decisões técnicas buscaram equilibrar **simplicidade, eficiência e boa man
 - Até o momento, nenhuma limitação relevante foi identificada.
 
 
+## 🧩 Reflexão Individual - Leonardo ##
+**-Aprendizados Técnicos:
+Durante o projeto, desenvolvi melhor minhas habilidades em HTML e CSS, especialmente na organização do código e na estruturação semântica das páginas. O conceito mais desafiador foi compreender boas práticas de responsividade e modularização, mas ao longo do desenvolvimento consegui evoluir bastante nisso. Hoje tenho um domínio muito maior sobre estrutura de pastas, versionamento com Git e organização geral do front-end em comparação ao início do trabalho.
+
+**-Aprendizados de Processo:
+Trabalhar em dupla foi uma experiência positiva, mas desafiadora. Tivemos que alinhar horários, dividir responsabilidades e manter a comunicação clara para evitar retrabalho. A organização das tarefas funcionou bem através de checkpoints e alinhamentos rápidos, o que deixou o fluxo de produção mais eficiente. A metodologia colaborativa ajudou bastante a manter o foco e distribuir melhor as atividades.
+
+**-Desafios Enfrentados:
+O maior desafio do projeto foi lidar com partes do código que exigiam mais atenção técnica, além de sincronizar a evolução do trabalho entre os integrantes. Superamos isso através de comunicação constante e revisão conjunta. Se eu pudesse voltar no tempo, teria investido mais tempo inicial no planejamento e na definição da estrutura do projeto, o que teria evitado alguns ajustes posteriores.
+
+--## ⚙️ Reflexão da dupla
+**-Evolução do Projeto
+O projeto evoluiu significativamente desde a Parte 1. Começamos com uma estrutura mais simples e, ao longo das etapas, aprimoramos a organização do código, a semântica do HTML, o design, além de implementar melhorias em acessibilidade e responsividade. As maiores mudanças foram justamente a reestruturação do layout, a padronização dos componentes e a melhoria da navegação. No geral, o resultado final atende bem à proposta inicial, entregando um site funcional, organizado e alinhado às necessidades do pequeno negócio escolhido.
+
+**-Feedbacks Recebidos
+Os feedbacks dos colegas foram importantes para identificar pontos que não tínhamos percebido. Entre eles, os mais úteis foram as sugestões sobre acessibilidade, estruturação de pastas e alguns ajustes de responsividade. Esses pontos ajudaram a melhorar a experiência do usuário e a tornar o código mais claro. Pretendemos aplicar essas sugestões em futuras versões, mantendo o foco em uma arquitetura mais modular e acessível.
+
+**-Relevância para o Negócio
+Acreditamos que o site realmente agregaria valor ao pequeno negócio escolhido, oferecendo uma presença digital clara, simples e direta, com informações acessíveis ao cliente. Se apresentássemos o projeto ao dono do negócio, destacaríamos a facilidade de navegação, a organização e a possibilidade de expansão futura. Usaríamos o projeto como parte do portfólio, pois ele demonstra domínio de conceitos fundamentais, boa estruturação e evolução ao longo das etapas.
+
+
 ## 🧭 Próximos Passos
 
 - Adicionar **botão de WhatsApp flutuante** para contato rápido.  
